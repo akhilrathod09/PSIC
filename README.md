@@ -9,7 +9,7 @@ Process Simulation and Control (PSIC) is a easy-to-use and a user-friendly Excel
 <img src="Problem statement.png" />
 
 ## Problem report
-* [Report](Project Report.pdf)
+* [Report](ProjectReport.pdf)
 
 ## Version
 7.5 
